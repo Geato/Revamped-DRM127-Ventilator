@@ -3,7 +3,7 @@ Revamped-DRM127-Ventilator-PCB
 
 This is an Altium version of the popular NXP (Freescale) ventilator design
 note, DRM127 which was printed in 2010. A lot of groups have been looking
-into revamping the design in view of the Covid 19 epidemic. Unfortunately,
+into building the NXP design in view of the Covid-19 pandemic. Unfortunately,
 pressure sensors are quite difficult to get as a result.
 
 Please note the component designators are not the same as the original
@@ -25,3 +25,4 @@ so I substituted a 4N35 which you can probably use regardless
 
 I cannot take any responsibility for any design issues nor can I
 assume any liability for the operation or safety relating to this design.
+
